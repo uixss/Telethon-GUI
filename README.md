@@ -1,6 +1,9 @@
 # Telethon-GUI
 
 
+This format is professional and direct, ideal for a GitHub repository. Let me know if you'd like any adjustments!
+
+
 ### 🔑 Session Management
 - 📥 **Login**: Easily load and save sessions on your device.
 - 🔄 **Authentication**: Authenticate with Telegram to keep sessions active.

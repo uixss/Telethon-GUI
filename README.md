@@ -1,6 +1,6 @@
 # Telethon-GUI
 
-![Telethon-GUI](gui-.png)
+![Telethon-GUI](gui.mp4)
 
 This project uses [Telethon](https://github.com/LonamiWebs/Telethon)
 

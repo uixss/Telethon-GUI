@@ -1,8 +1,7 @@
 # Telethon-GUI
 
 
-This format is professional and direct, ideal for a GitHub repository. Let me know if you'd like any adjustments!
-
+This project uses [Telethon](https://github.com/LonamiWebs/Telethon), a Python library that enables interaction with the Telegram API, making it easier to automate messaging and management tasks on Telegram.
 
 ### 🔑 Session Management
 - 📥 **Login**: Easily load and save sessions on your device.

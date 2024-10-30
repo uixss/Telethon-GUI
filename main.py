@@ -6,7 +6,7 @@ from tkinter import ttk, Toplevel
 from PIL import Image, ImageTk
 import ctypes  
 from telethon import TelegramClient, functions, types, errors
-from logica import create_session, save_session, load_sessions, save_all_sessions, get_entity_data
+from session import create_session, save_session, load_sessions, save_all_sessions, get_entity_data
 import base64
 import io
 

@@ -4,7 +4,6 @@ import pickle
 from telethon import TelegramClient, functions, types, errors
 from telethon.errors import SessionPasswordNeededError
 
-# Funciones de gestión de sesiones
 async def create_session(api_id, api_hash, phone_number):
     client = TelegramClient(f'sessions/{phone_number}', api_id, api_hash)
     await client.connect()

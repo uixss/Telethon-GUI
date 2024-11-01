@@ -1,3 +1,5 @@
+# 🎫 Coding Services SEND DM 🎫
+
 # Telethon-GUI
 
 ![Telethon-GUI](gui.gif)
@@ -7,8 +9,6 @@ This project uses [Telethon](https://github.com/LonamiWebs/Telethon)
 This project features a well-designed, user-friendly interface that ensures a smooth experience across different devices and screen sizes. The interface is optimized for clarity, ease of use, and provides intuitive access to all functionalities. 
 
 Additionally, the project architecture is built with scalability in mind, allowing for easy expansion to accommodate more users, features, and integrations as needed.
-
-# 🎫 Coding Services SEND DM 🎫
 
 ### 🔑 Session Management
 - 📥 **Login**: Easily load and save sessions on your device.
